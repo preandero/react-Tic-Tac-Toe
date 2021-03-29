@@ -1,12 +1,14 @@
 # react-TicTacToe
 
-#StackBlitz로 편집 및 실행
+---
+
+# StackBlitz로 편집 및 실행
 
 >[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-krcmch)
 
+---
 
-
-#Docker로 실행
+# Docker로 실행
 
 
 >` docker run -d -p 3001:3000 --name tictactoeGame preandero/react_tictactoe:1.1 `
